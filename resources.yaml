@@ -1,0 +1,27 @@
+- dir: .
+  url: git@github.com:AndreaCensi/env_master_compmake.git
+
+- dir: src/contracts
+  url: git@github.com:AndreaCensi/contracts.git
+  branch: master
+
+- dir: src/compmake
+  url: git@github.com:AndreaCensi/compmake.git
+  branch: master
+
+- dir: src/decent_logs
+  url: git@github.com:AndreaCensi/decent_logs.git
+  branch: master
+
+- dir: src/quickapp
+  url: git@github.com:AndreaCensi/quickapp.git
+
+- dir: src/reprep
+  url: git@github.com:AndreaCensi/reprep.git
+
+- dir: src/conf_tools
+  url: git@github.com:AndreaCensi/conf_tools.git
+
+- dir: src/comptests
+  url: git@github.com:AndreaCensi/comptests.git
+  branch: master
