@@ -1,5 +1,5 @@
 - dir: .
-  url: git@github.com:AndreaCensi/env_master_compmake.git
+  url: git@github.com:AndreaCensi/env_master_quickapp.git
 
 - dir: src/contracts
   url: git@github.com:AndreaCensi/contracts.git
